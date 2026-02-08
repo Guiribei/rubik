@@ -26,6 +26,5 @@ What this project focuses on:
 - Logical decomposition of a complex problem
 - Efficient state representation
 - Algorithmic thinking & optimization
-- Clean, norm-compliant C code
 
 ---
